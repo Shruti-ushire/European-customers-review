@@ -3,7 +3,6 @@ numpy
 pandas
 streamlit
 plotly
-wordcloud
 matplotlib
 streamlit-authenticator==0.1.3
 Scikit-learn
